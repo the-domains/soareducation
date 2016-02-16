@@ -7,8 +7,8 @@ color:
     - '#44BAF8'
     - '#94D2F2'
   brandStrength: 0.653716
-  lightness: 0.5
-  rhythmicContrast: 0.775337
+  lightness: 1
+  rhythmicContrast: 0.212837
   saturation: 0.856418
 cta: {}
 layout_spectrum: 0.792229
