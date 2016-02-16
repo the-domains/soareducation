@@ -7,12 +7,12 @@ color:
     - '#44baf8'
     - '#94d2f2'
   brandStrength: 0.875
-  lightness: 1
+  lightness: 0.5
   rhythmicContrast: 0.13085
   saturation: 1
 cta: {}
 layout_spectrum: 0.7431
-name: SoarEducation
+name: Soar Education
 opengraph: {}
 purpose: []
 typography_spectrum: 0.63375
