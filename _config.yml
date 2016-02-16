@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#0098c9'
-    - '#565f68'
-    - '#44baf8'
-    - '#94d2f2'
+    - '#FFFFFF'
+    - '#0098C9'
+    - '#565F68'
+    - '#44BAF8'
+    - '#94D2F2'
   brandStrength: 0.875
   lightness: 0.5
   rhythmicContrast: 0.13085
-  saturation: 1
+  saturation: 0.689189
 cta: {}
-layout_spectrum: 0.7431
+layout_spectrum: 0.792229
 name: Soar Education
 opengraph: {}
 purpose: []
