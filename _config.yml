@@ -1,20 +1,4 @@
-name: SoarEducation
-favicon: null
-layout_spectrum: 0.7431
-typography_spectrum: 0.63375
-title: Soar Education
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -23,7 +7,12 @@ color:
     - '#44baf8'
     - '#94d2f2'
   brandStrength: 0.875
-  lightness: 0.5
+  lightness: 1
+  rhythmicContrast: 0.13085
   saturation: 0.5
-  rhythmicContrast: 0.1308502471074462
+cta: {}
+layout_spectrum: 0.7431
+name: SoarEducation
+opengraph: {}
 purpose: []
+typography_spectrum: 0.63375
