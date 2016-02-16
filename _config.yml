@@ -6,10 +6,10 @@ color:
     - '#565F68'
     - '#44BAF8'
     - '#94D2F2'
-  brandStrength: 0.875
+  brandStrength: 0.653716
   lightness: 0.5
-  rhythmicContrast: 0.13085
-  saturation: 0.689189
+  rhythmicContrast: 0.775337
+  saturation: 0.856418
 cta: {}
 layout_spectrum: 0.792229
 name: Soar Education
